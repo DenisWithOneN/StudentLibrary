@@ -1,4 +1,11 @@
 {
   "name": "StudentLibrary",
-  "packageManager": "yarn@3.6.4"
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/DenisWithOneN/StudentLibrary.git",
+  "author": "DenisWithOneN <denis.ursut@emanuel.ro>",
+  "license": "MIT",
+  "dependencies": {
+    "p5": "^1.7.0"
+  }
 }
